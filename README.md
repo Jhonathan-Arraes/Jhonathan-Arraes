@@ -1,7 +1,7 @@
 # Olá, eu sou o Jhonathan
 
 Atualmente, estou como analista de suporte, mas estou me desenvolvendo todos os dias como programador back-end e em Cloud.
-Tenho o objetivo inicial que de me tornar um desenvolvedor FullStack.
+Tenho o objetivo inicial que de me tornar um DevOps.
 
   ![Jhonathan-Arraes GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhonathan-Arraes&show_icons=true&theme=tokyonight)
 
